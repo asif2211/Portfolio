@@ -1,1 +1,3 @@
-console.log('checki')
+export const getvalue = ()=>{
+    console.log('asif')
+}
